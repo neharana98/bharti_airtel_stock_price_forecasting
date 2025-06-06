@@ -1,4 +1,4 @@
-# bharti_airtel_stock_price_forecasting
+# Bharti Airtel Stock Price Forecasting - GRU Model
 **Overview**:
 Deep learning models have outperformed traditional time-series methods in forecasting complex and high-frequency financial data such as stock prices. Among these, the GRU (Gated Recurrent Unit) model, introduced by Cho et al. in 2014, offers a simplified alternative to LSTM by using fewer gates while retaining the ability to model sequential patterns in time-series data.
 
